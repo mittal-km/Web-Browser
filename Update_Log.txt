@@ -1,0 +1,21 @@
+Web_Browser - 
+	Basic browser app with Google.com as Default.
+
+Web_Browser 2.0 -
+	Splash Screen Added.
+
+Web_Browser 3.0 - 
+	Back, Forward, Refresh MenuItems added.
+	Browser Icon Added.
+
+Web_Browser 3.1 - 
+	Home and Share features added to Menu Bar.
+	Swipe to Refresh Feature Added.
+
+Web_Browser 3.2.0 - 
+	Clear Browsing Data and Exit options added to Menu Bar.
+	Download Manager Added.
+	Enhanced Performance. (Zoom Control Enabled)
+
+Web_Browser 3.2.1 -
+	Enter URL and Go Button added. 
